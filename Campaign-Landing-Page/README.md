@@ -2,9 +2,9 @@
 
 A responsive landing page designed for a "Tree Plantation Drive" community campaign. This project was completed as a task for the Jamuna Foundation Web Development Internship.
 
-### Link to Code
-
-Since this project is part of a larger repository, there is no separate live demo. You can view the complete code for this project in this folder on GitHub.
+### Live Demo
+This project is deployed and can be viewed live at the following link:
+**[https://jamuna-campaign-debasish.netlify.app](https://68cbb67d84dde336181f2a58--deluxe-kringle-ceed65.netlify.app/)**
 
 ### Screenshot
 
