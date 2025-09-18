@@ -2,13 +2,22 @@
 
 A responsive landing page designed for a "Tree Plantation Drive" community campaign. This project was completed as a task for the Jamuna Foundation Web Development Internship.
 
+### Link to Code
+
+Since this project is part of a larger repository, there is no separate live demo. You can view the complete code for this project in this folder on GitHub.
+
+### Screenshot
+
+<img width="1279" height="887" alt="image" src="https://github.com/user-attachments/assets/b28e144b-cac7-4d70-a3c4-3c7ed2947393" />
+
+
 ### Features
 
--   A clean, modern dark-mode design with a clear call-to-action.
--   Fully responsive layout for mobile and desktop.
--   Structured with semantic HTML5 for accessibility.
+- A clean, modern dark-mode design with a clear call-to-action.
+- Fully responsive layout for mobile and desktop.
+- Structured with semantic HTML5 for accessibility.
 
 ### Technologies Used
 
--   HTML5
--   CSS3
+- HTML5
+- CSS3
