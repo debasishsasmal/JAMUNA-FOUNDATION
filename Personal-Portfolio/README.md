@@ -4,16 +4,20 @@ This is a responsive personal portfolio website built from scratch to showcase m
 
 ### Live Demo
 
-The fully deployed version of this site can be viewed here: **[https://debasishsasmal.github.io/](https://debasishsasmal.github.io/)**
+You can view the live site here: **[https://debasishsasmal.github.io/](https://debasishsasmal.github.io/Personal-Portfolio-Website/)**
+
+### Screenshot
+
+<img width="1278" height="975" alt="Screenshot 2025-08-25 181419" src="https://github.com/user-attachments/assets/5484eadf-44ff-4a69-965a-016f74ab1b06" />
 
 ### Features
 
--   A clean, modern, single-page layout.
--   Fully responsive design for mobile, tablet, and desktop viewing.
--   Interactive mobile navigation menu.
+- A clean, modern, single-page layout.
+- Fully responsive design for mobile, tablet, and desktop viewing.
+- Interactive mobile navigation menu.
 
 ### Technologies Used
 
--   HTML5
--   CSS3
--   Vanilla JavaScript
+- HTML5
+- CSS3
+- Vanilla JavaScript
